@@ -1,7 +1,7 @@
 Clear Screen Identifiers, for Firefox
 ========================
 
-[Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-plugins-mimety/)
+[Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-clear-screen-iden/)
 
 Hide in the forest, with a clean removal of your screen identifiers.
 
