@@ -1,7 +1,6 @@
-Clear Screen Identifiers, for Firefox
-========================
+## Clear Screen Identifiers, for Firefox
 
-[Install here](https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-clear-screen-iden/)
+** Still a work in progress **
 
 Note: Flash must also be disabled, as it leaks screen identifiers (amongst **many others**). Flashblock works great, as it still allows you to view Flash on pages you trust.
 
