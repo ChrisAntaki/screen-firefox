@@ -1,6 +1,6 @@
 ## Clear Screen Identifiers, for Firefox
 
-** Still a work in progress **
+**Note: Still a work in progress**
 
 Note: Flash must also be disabled, as it leaks screen identifiers (amongst **many others**). Flashblock works great, as it still allows you to view Flash on pages you trust.
 
